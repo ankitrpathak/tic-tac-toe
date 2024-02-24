@@ -22,5 +22,5 @@ This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The gam
 
 ## Live Demo
 
-You can play the game at [this link](https://your-username.github.io/tic-tac-toe-game/).
+You can play the game at [this link](https://ankitrpathak.github.io/tic-tac-toe/).
 
